@@ -1,0 +1,9 @@
+goflights
+├── api
+│   └── rest
+│       └── api.go
+│       └── middleware.go
+├── flightstatus
+│   └── aviationstack
+│       └── aviationstack.go
+└── main.go
